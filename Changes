@@ -1,0 +1,6 @@
+Revision history for Perl extension POE::Component::ForkManager.
+
+0.00_01  Wed Feb  1 02:51:37 2006
+	- original version; created by h2xs 1.23 with options
+		-AXn POE::Component::ForkManager
+

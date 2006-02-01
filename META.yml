@@ -1,0 +1,19 @@
+abstract: Perl extension for managing a preforking server in POE
+author: 'Jonathan Steinert, <hachi@cpan.org>'
+distribution_type: module
+generated_by: Module::Install version 0.54
+license: perl
+name: POE-Component-ForkManager
+no_index:
+  directory:
+    - examples
+    - inc
+    - t
+requires:
+  POE: 0
+  POE::Driver::SysRW: 0
+  POE::Filter::Block: 0
+  POE::Pipe::TwoWay: 0
+  POE::Wheel::ReadWrite: 0
+  perl: 5
+version: 0.00_01
